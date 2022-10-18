@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Reviewing the best Oscar movies of all time"
-author: sal
-categories: [ Lifestyle ]
-tags: [Movies]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-rating: 4.5
+title:  "Decluttering, upaya untuk mempercepat penyampaian pesan"
+author: faris
+categories: [ Storytelling ]
+tags: [Data Visualization]
+image: assets/images/2.jpg
+description: "Decluttering, upaya untuk mempercepat penyampaian pesan."
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with **Memoirs**! JSON-LD ready for review property.
