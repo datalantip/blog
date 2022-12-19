@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decluttering, upaya untuk mempercepat penyampaian pesan"
+title:  "Apakah aplikasi desktop akan mati?"
 author: faris
 categories: [ Storytelling ]
 tags: [Data Visualization]

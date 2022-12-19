@@ -4,7 +4,7 @@ title:  "Grafik Sebagai Perangkat Bercerita Dengan Data"
 author: faris
 categories: [ Storytelling ]
 tags: [Data Visualization]
-image: assets/images/1.jpg
+thumbnail: assets/images/1.jpg
 description: "Memilih tampilan grafik yang tepat untuk berbagai jenis data."
 ---
 
