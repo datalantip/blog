@@ -34,13 +34,13 @@
                 </div>
                 {% endif %}
             </h2>
-            <h4>
+            <h6>
                 <!-- Categories -->
                 {% assign sortedCategories = post.categories | sort %}
                 {% for category in sortedCategories %}
                 <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
                 {% endfor %}
-            </h4>
+            </h6>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
         <div class="card-footer bg-white">
