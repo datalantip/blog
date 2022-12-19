@@ -33,13 +33,14 @@
                 {% include star_rating_postbox.html %}
                 </div>
                 {% endif %}
-
+            </h2>
+            <h4>
                 <!-- Categories -->
                 {% assign sortedCategories = post.categories | sort %}
                 {% for category in sortedCategories %}
                 <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
                 {% endfor %}
-            </h2>
+            </h4>
             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
         </div>
         <div class="card-footer bg-white">
